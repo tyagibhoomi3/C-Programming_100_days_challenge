@@ -1,11 +1,9 @@
 /*Write a program to input two numbers and display their sum.*/
-/*Name-Bhoomi Tyagi*/
-/*SAP_ID-590028798*/
-/*course-BCA*/
-/*Batch-6*/
 
 #include <stdio.h>
 int main(){
+    printf("Name - Bhoomi Tyagi\n SAP ID - 590028798\n Course - BCA\n Batch - 06\n");
+    printf("--------------------------------------------------\n");
     int a;
     int b;
     int SUM;
@@ -17,3 +15,4 @@ int main(){
     printf("sum of two number  %d+%d=%d",a,b,SUM);
     return 0;
 }
+

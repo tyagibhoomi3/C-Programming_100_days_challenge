@@ -1,11 +1,9 @@
 /*Write a program to input two numbers and display their sum, difference, product, and quotient.*/
-/*Name-Bhoomi Tyagi*/
-/*SAP_ID-590028798*/
-/*course-BCA*/
-/*Batch-6*/
 
 #include <stdio.h>
 int main(){
+    printf("Name - Bhoomi Tyagi\n SAP ID - 590028798\n Course - BCA\n Batch - 06\n");
+    printf("--------------------------------------------------\n");
     int x;
     int y;
     printf("enter the value of 1st number : ");
@@ -22,3 +20,4 @@ int main(){
       }
     return 0;
 }
+

@@ -2,7 +2,7 @@
 #include <stdio.h>
 int main() 
 {
-    printf("Name - Shabdi Srivastava\n SAP ID - 590021135\n Course - BCA\n Batch - 06\n");
+     printf("Name - Bhoomi Tyagi\n SAP ID - 590028798\n Course - BCA\n Batch - 06\n");
     printf("--------------------------------------------------\n");
     int n;
     printf("Enter the number of elements in the array : ");
@@ -28,4 +28,5 @@ int main()
     printf("Total even numbers : %d\n",even);
     printf("Total odd numbers : %d\n",odd);
     return 0;
+
 }

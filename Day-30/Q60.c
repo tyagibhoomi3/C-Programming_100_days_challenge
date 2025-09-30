@@ -2,7 +2,7 @@
 #include <stdio.h>
 int main() 
 {
-    printf("Name - Shabdi Srivastava\n SAP ID - 590021135\n Course - BCA\n Batch - 06\n");
+     printf("Name - Bhoomi Tyagi\n SAP ID - 590028798\n Course - BCA\n Batch - 06\n");
     printf("--------------------------------------------------\n");
     int n,zero=0,pos=0,neg=0;
     printf("Enter the number of elements in the array : ");
@@ -32,4 +32,5 @@ int main()
     printf("number of  negative elements is %d\n",neg);
     printf("number of  zero elements is %d\n",zero);
     return 0;
+
 }

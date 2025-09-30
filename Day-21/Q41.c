@@ -3,7 +3,7 @@
 #include <math.h>
 int main()
 {
-    printf("Name - Shabdi Srivastava\n SAP ID - 590021135\n Course - BCA\n Batch - 06\n");
+     printf("Name - Bhoomi Tyagi\n SAP ID - 590028798\n Course - BCA\n Batch - 06\n");
     printf("--------------------------------------------------\n");
     int n,fd,ld,c=0;
     printf("Enter a number : ");
@@ -25,4 +25,5 @@ int main()
     int swap = ld * (int)(pow(10, (c-1))) + (mid * 10 + fd);
     printf("Number after swapping first and last digit: %d\n", swap);
     return 0;
+
 }

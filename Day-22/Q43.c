@@ -14,7 +14,7 @@ int factorial(int n)
 }
 int main() 
 {
-    printf("Name - Shabdi Srivastava\n SAP ID - 590021135\n Course - BCA\n Batch - 06\n");
+     printf("Name - Bhoomi Tyagi\n SAP ID - 590028798\n Course - BCA\n Batch - 06\n");
     printf("--------------------------------------------------\n");
     int num, temp, d, sum = 0;
     printf("Enter a number: ");
@@ -32,3 +32,4 @@ int main()
         printf("%d is not a Strong Number.\n", num);
     return 0;
 }
+

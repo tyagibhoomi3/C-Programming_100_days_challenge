@@ -2,7 +2,7 @@
 #include <stdio.h>
 int main()
 {
-    printf("Name - Shabdi Srivastava\n SAP ID - 590021135\n Course - BCA\n Batch - 06\n");
+    printf("Name - Bhoomi Tyagi\n SAP ID - 590028798\n Course - BCA\n Batch - 06\n");
     printf("--------------------------------------------------\n");
     int n;
     printf("Enter the number of terms :");
@@ -16,4 +16,5 @@ int main()
     }
     printf("The sum of series till %d terms is %f : ",n,sum);
     return 0;
+
 }

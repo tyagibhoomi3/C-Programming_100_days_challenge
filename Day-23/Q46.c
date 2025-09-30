@@ -7,7 +7,7 @@
 #include <stdio.h>
 int main()
 {
-    printf("Name - Shabdi Srivastava\n SAP ID - 590021135\n Course - BCA\n Batch - 06\n");
+     printf("Name - Bhoomi Tyagi\n SAP ID - 590028798\n Course - BCA\n Batch - 06\n");
     printf("--------------------------------------------------\n");
     for(int i=0;i<=5;i++)
     {
@@ -19,3 +19,4 @@ int main()
     }
     return 0;
 }
+

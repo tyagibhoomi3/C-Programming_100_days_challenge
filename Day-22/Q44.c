@@ -2,7 +2,7 @@
 #include <stdio.h>
 int main()
 {
-    printf("Name - Shabdi Srivastava\n SAP ID - 590021135\n Course - BCA\n Batch - 06\n");
+     printf("Name - Bhoomi Tyagi\n SAP ID - 590028798\n Course - BCA\n Batch - 06\n");
     printf("--------------------------------------------------\n");
     float den,num;
     int n;
@@ -18,3 +18,4 @@ int main()
     printf("The sum of the series is: %.2f\n", sum);
     return 0;
 }
+

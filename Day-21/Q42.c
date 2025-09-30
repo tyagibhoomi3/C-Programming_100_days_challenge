@@ -3,7 +3,7 @@
 #include <stdio.h>
 int main()
 {
-    printf("Name - Shabdi Srivastava\n SAP ID - 590021135\n Course - BCA\n Batch - 06\n");
+     printf("Name - Bhoomi Tyagi\n SAP ID - 590028798\n Course - BCA\n Batch - 06\n");
     printf("--------------------------------------------------\n");
     int n,sum=0;
     printf("Enter a number : ");
@@ -24,4 +24,5 @@ int main()
         printf("%d is not a perfect number.\n", n);
     }
     return 0;
+
 }
